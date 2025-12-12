@@ -2,7 +2,7 @@
 
 This repository contains a small Python script that collects information about the processor(s) of a Windows machine using WMI and prints the details to the console.
 
-I'll make collect more information latter!
+I'll make collect more information after!
 
 ## What the code does
 - Opens a WMI connection to access hardware information.
